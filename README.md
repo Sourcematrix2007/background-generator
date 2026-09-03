@@ -1,8 +1,13 @@
 # Temporary KSN Client Preview Host
 
-This public repository is being used temporarily to host the KSN Physiotherapists redesign preview and the corresponding WordPress theme package.
+This public repository is being used temporarily to host the KSN Physiotherapists redesign preview.
 
-- Client preview: `ksn-client-preview/`
-- WordPress theme package: retained in the verified offline build
+## Client preview
 
-The production source of truth remains the custom WordPress theme. This repository does not replace the final WordPress hosting environment.
+https://raw.githack.com/Sourcematrix2007/background-generator/main/ksn-client-preview/index.html
+
+## GitHub source
+
+https://github.com/Sourcematrix2007/background-generator/blob/main/ksn-client-preview/index.html
+
+The production source of truth remains the custom KSN WordPress theme. GitHub is being used here only for the static visual preview because GitHub Pages/static hosting does not execute WordPress/PHP.
